@@ -1,4 +1,3 @@
-# SnakeLoop
 Juego Snake Loop
 
 *Archivos Principales:
